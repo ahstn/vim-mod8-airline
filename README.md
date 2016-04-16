@@ -2,13 +2,18 @@
 mod8 [vim-airline](https://github.com/vim-airline/vim-airline) companion theme
 
 ### Installation
-By cloning this repo:
+Using plugin manager:
+```vim
+<PACKAGE_MANAGER> 'phazyy/vim-mod8-airline'
 ```
+
+By cloning this repo:
+```bash
 $ cd ~/.vim/bundle
 $ git clone https://github.com/phazyy/vim-mod8-airline.git
 ```
 
-Add `let g:airline_theme='mod8'` to your ~/.vimrc
+Finally add `let g:airline_theme='mod8'` to your ~/.vimrc
 
 ### Preview
 ![vim-mod8-airline](http://i.imgur.com/iD5VeP4.png)
